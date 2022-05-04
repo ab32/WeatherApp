@@ -3,6 +3,7 @@ A weather application coded with the help of graphical user interface Tkinter in
 
 ![WeatherUI](https://user-images.githubusercontent.com/44835095/166613400-4796c537-ab4e-4cf7-b298-87494a895f40.PNG)
 
+**If you would like to learn more about the Tkinter GUI, then this site https://www.pythontutorial.net/tkinter/ is where I recommend you to check!**
 
 # Getting Started
 We will go through the process of downloading the weather application and making it work. First off you need to download **main.py** and then **api.key**. The main.py file contains all of the backend and frontend development of the weather app. The api.key file contains my personal api-key from my account on **https://openweathermap.org/**. 
@@ -25,3 +26,4 @@ In the terminal/command-line:
 then use it inside your Python script by:
 
   * import requests
+

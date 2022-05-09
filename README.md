@@ -12,10 +12,11 @@ When finished donwloading the two files, create a python folder in your preferre
 
 The last step and the most important one. I'm using a python library called **Requests** in order to get this package you need to follow the instructions below if you are using **PyCharm**.
 
-1. go to setting from File in menu
-2. next search for Python interpreter
-3. click on the + button
-4. search for requests package and install it
+1. Go to setting from File in menu
+2. Next search for Python interpreter
+3. Find "Python interpreter"
+4. Click on the + button
+5. Search for requests package and install it
 
 You can also use the terminal in **PyCharm**, just follow the instructions below.
 
